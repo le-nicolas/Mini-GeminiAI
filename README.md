@@ -38,3 +38,6 @@ Triggers Alerts: If any event is at risk due to the delay, an alert is sent to i
 
 # Conclusion
 This Google Sheets-based system streamlines event scheduling by automating updates and managing dependencies with ease. Its real-time recalculations, monitoring, and alert features keep your team informed and the event on track, regardless of unexpected delays. Whether for a single event or multiple concurrent sessions, this code can adapt and evolve to meet your scheduling needs—saving time, reducing stress, and allowing you to focus on delivering an outstanding experience for attendees.
+
+The output:
+https://docs.google.com/spreadsheets/d/1OkllqOs-LwEuwYfGO5HESgvglLDrLB9tIkhrr2rZp3Q/edit?usp=sharing
